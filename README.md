@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Luan Artacho :wave:
  
- :mortar_board: Me formando em Análise e Desenvolvimento de Sistemas <br>
- 💻 Trabalhando atualmente como Desenvolvedor Web <br>
- :books: Atualmente Estudando .NET(C#), JAVA, JS, Flutter, CSS... <br>
+ :mortar_board: Formando em Análise e Desenvolvimento de Sistemas <br>
+ 💻 Trabalhando atualmente como Desenvolvedor <br>
+ :books: Atualmente Estudando .NET(C#), Node, JS, Python, React... <br>
    🥇 Full-Stack em processo!!
  
  <div>
