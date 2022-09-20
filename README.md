@@ -1,9 +1,10 @@
 ## Olá, Eu sou o Luan Artacho :wave:
  
  :mortar_board: Formando em Análise e Desenvolvimento de Sistemas <br>
- 💻 Trabalhando atualmente como Desenvolvedor <br>
- :books: Atualmente Estudando .NET(C#), Node, JS, Python, React... <br>
-   🥇 Full-Stack em processo!!
+ :graph: Cursando Ciências Econômicas <br>
+ 💻 Trabalhando atualmente como Desenvolvedor Jr<br>
+ :books: Atualmente Estudando Node, JS, Python, Solidity, Hardhat, Express, React... <br>
+   🥇 Dev WEB3 em processo!!
  
  <div>
   <a href="https://github.com/LuanArtacho">
