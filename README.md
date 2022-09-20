@@ -1,10 +1,10 @@
 ## Olá, Eu sou o Luan Artacho :wave:
  
- :mortar_board: Formando em Análise e Desenvolvimento de Sistemas <br>
+ :mortar_board: Formado em Análise e Desenvolvimento de Sistemas <br>
  👀 Cursando Ciências Econômicas <br>
- 🌱 Atualmente eu estou aprendendo sobre solidity, smart contract e dapps<br>
+ 🌱 Eu estou aprendendo sobre solidity, smart contract e dapps<br>
  💻 Trabalhando atualmente como Desenvolvedor Jr WEB2<br>
- :books: Atualmente Estudando Node, JS, Python, Solidity, Hardhat, Express, React... <br>
+ :books: Atualmente Estudando Node, JS, TS, Python, Solidity, Hardhat, Express, React... <br>
    🥇 Dev WEB3 em processo!!
  
  <div>
