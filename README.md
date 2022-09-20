@@ -1,8 +1,9 @@
 ## Olá, Eu sou o Luan Artacho :wave:
  
  :mortar_board: Formando em Análise e Desenvolvimento de Sistemas <br>
- :graph: Cursando Ciências Econômicas <br>
- 💻 Trabalhando atualmente como Desenvolvedor Jr<br>
+ 👀 Cursando Ciências Econômicas <br>
+ 🌱 Atualmente eu estou aprendendo sobre solidity, smart contract e dapps<br>
+ 💻 Trabalhando atualmente como Desenvolvedor Jr WEB2<br>
  :books: Atualmente Estudando Node, JS, Python, Solidity, Hardhat, Express, React... <br>
    🥇 Dev WEB3 em processo!!
  
@@ -12,12 +13,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanArtacho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luan-DotNet" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Luan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+  <img align="center" alt="Luan-Solidity" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
   <img align="center" alt="Luan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-Flutter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Luan-Java" height="40" width="55" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Luan-Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
