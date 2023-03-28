@@ -4,7 +4,7 @@
  👀 Cursando Ciências Econômicas <br>
  🌱 Eu estou aprendendo sobre solidity, smart contract, dapps e DeFi<br>
  💻 Meu Ultimo Trabalho foi como Desenvolvedor Jr WEB2<br>
- :books: Atualmente Estudando Node, JS, TS, Python, Solidity, Hardhat, Express, React... <br>
+ :books: Atualmente Estudando Node, Python e suas libs voltada p Data Science e React... <br>
    🥇 Dev WEB3 em processo ou Analista M&A😁!!
  
  <div>
