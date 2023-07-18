@@ -2,10 +2,10 @@
  
  :mortar_board: Formado em Análise e Desenvolvimento de Sistemas <br>
  👀 Cursando Ciências Econômicas <br>
- 🌱 Dei uma parada sobre solidity, smart contracts, dapps e DeFi<br>
- 💻 Meu Ultimo Trabalho foi como Desenvolvedor Jr WEB2, Hj trabalho no MF<br>
- :books: Atualmente Estudando Node, Python e suas libs voltada p Data Science e React... <br>
-   🥇 Dev WEB3 em processo ou Analista M&A/Research😁!!
+ 🌱 Dei uma parada sobre solidity, smart contracts, Dapps e DeFi<br>
+ 💻 Meu Ultimo Trabalho foi como Desenvolvedor Jr WEB2, Hj trabalho no Mercado Financeiro<br>
+ :books: Atualmente Estudando Python e suas libs voltada p Data Science e tudo que da pra otimizar meu job como VBA... <br>
+   🥇 Dev Quant em processo ou Analista M&A/Research😁!!
  
  <div>
   <a href="https://github.com/LuanArtacho">
