@@ -2,10 +2,10 @@
  
  :mortar_board: Formado em Análise e Desenvolvimento de Sistemas <br>
  👀 Cursando Ciências Econômicas <br>
- 🌱 Dei uma parada sobre solidity, smart contracts, Dapps e DeFi<br>
+ 🌱 Praticante de Jiu Jitsu<br>
  💻 Meu Ultimo Trabalho foi como Desenvolvedor Jr WEB2, Hj trabalho no Mercado Financeiro<br>
- :books: Atualmente Estudando Python e suas libs voltada p Data Science e tudo que da pra otimizar meu job como VBA... <br>
-   🥇 Dev Quant em processo ou Analista M&A/Research😁!!
+ :books: Atualmente Estudando Python e suas libs voltada p Data Science e tudo que da pra otimizar meu trabalho como VBA, SQL, DAX e afins da AWS... <br>
+   🥇 Derivatives Sales Trader em processo ou Analista de Private Banking😁!!
  
  <div>
   <a href="https://github.com/LuanArtacho">
